@@ -1,0 +1,5 @@
+{
+  "name": "BNB 3-Second Prediction",
+  "description": "A fast-paced market prediction game. Guess if the BNB price will go up or down in 3 seconds. Track your streaks and climb the leaderboards.",
+  "requestFramePermissions": []
+}
